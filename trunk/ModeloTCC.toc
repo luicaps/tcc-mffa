@@ -1,0 +1,51 @@
+\select@language {brazil}
+\contentsline {chapter}{Lista de Figuras}{vii}
+\contentsline {chapter}{Lista de Tabelas}{viii}
+\contentsline {chapter}{Lista de Abreviaturas e Siglas}{ix}
+\contentsline {chapter}{Lista de S\IeC {\'\i }mbolos}{x}
+\contentsline {chapter}{Sum\'ario}{xi}
+\contentsline {chapter}{Resumo}{xiii}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{1}
+\contentsline {section}{\numberline {1.1}Justificativas}{1}
+\contentsline {section}{\numberline {1.2}Objetivos}{1}
+\contentsline {section}{\numberline {1.3}Organiza\c c\~ao do Documento}{1}
+\contentsline {section}{\numberline {1.4}Par\'agrafos e Espa\c cos de Entrelinhas}{1}
+\contentsline {section}{\numberline {1.5}Letras}{1}
+\contentsline {section}{\numberline {1.6}T\IeC {\'\i }tulos}{2}
+\contentsline {section}{\numberline {1.7}Al\IeC {\'\i }neas}{2}
+\contentsline {section}{\numberline {1.8}Ilustra\c c\~oes (Figuras, Tabelas e Quadros)}{3}
+\contentsline {subsection}{\numberline {1.8.1}Figuras}{3}
+\contentsline {subsection}{\numberline {1.8.2}Tabelas}{4}
+\contentsline {section}{\numberline {1.9}Express\~oes e F\'ormulas Matem\'aticas}{5}
+\contentsline {section}{\numberline {1.10}Grandezas, Unidades, S\IeC {\'\i }mbolos e Abreviaturas}{5}
+\contentsline {section}{\numberline {1.11}Notas Explicativas}{5}
+\contentsline {section}{\numberline {1.12}Cita\c c\~oes}{6}
+\contentsline {subsection}{\numberline {1.12.1}Cita\c c\~oes Textuais}{6}
+\contentsline {subsection}{\numberline {1.12.2}Cita\c c\~oes Conceituais}{7}
+\contentsline {subsection}{\numberline {1.12.3}Cita\c c\~ao Mista}{7}
+\contentsline {subsection}{\numberline {1.12.4}Cita\c c\~ao de Cita\c c\~ao}{7}
+\contentsline {section}{\numberline {1.13}Indica\c c\~ao das fontes consultadas}{8}
+\contentsline {chapter}{\numberline {2}Estrutura do TCC ou Monografia}{9}
+\contentsline {section}{\numberline {2.1}Elementos Pr\'e-Textuais}{10}
+\contentsline {subsection}{\numberline {2.1.1}Capa}{10}
+\contentsline {subsection}{\numberline {2.1.2}Folha de Rosto}{10}
+\contentsline {subsection}{\numberline {2.1.3}Folha de Aprova\c c\~ao}{11}
+\contentsline {subsection}{\numberline {2.1.4}Dedicat\'oria}{11}
+\contentsline {subsection}{\numberline {2.1.5}Agradecimentos}{11}
+\contentsline {subsection}{\numberline {2.1.6}Lista de Figuras / Tabelas}{11}
+\contentsline {subsection}{\numberline {2.1.7}Lista de Abreviaturas e Siglas}{11}
+\contentsline {subsection}{\numberline {2.1.8}Lista de S\IeC {\'\i }mbolos}{11}
+\contentsline {subsection}{\numberline {2.1.9}Sum\'ario}{12}
+\contentsline {subsection}{\numberline {2.1.10}Resumo}{12}
+\contentsline {section}{\numberline {2.2}Elementos Textuais}{13}
+\contentsline {subsection}{\numberline {2.2.1}Introdu\c c\~ao}{13}
+\contentsline {subsection}{\numberline {2.2.2}Revis\~ao da Literatura}{14}
+\contentsline {subsection}{\numberline {2.2.3}Desenvolvimento}{14}
+\contentsline {subsection}{\numberline {2.2.4}Conclus\~ao}{15}
+\contentsline {section}{\numberline {2.3}Elementos P\'os-Textuais}{15}
+\contentsline {subsection}{\numberline {2.3.1}Ap\^endices (ou anexos)}{16}
+\contentsline {subsection}{\numberline {2.3.2}Gloss\'ario}{16}
+\contentsline {subsection}{\numberline {2.3.3}Refer\^encias Bibliogr\'aficas}{16}
+\contentsline {chapter}{\numberline {A}Como Fazer as Refer\^encias Bibliogr\'aficas no Latex}{20}
+\contentsline {chapter}{Gloss\'ario}{24}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{25}
