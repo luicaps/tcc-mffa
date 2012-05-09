@@ -1,0 +1,68 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.42.2.1 }
+
+\bibitem{ArtigoRevista}
+\abntrefinfo{Zhou}{ZHOU}{1996}
+{ZHOU, E.~Z. Object oriented programming c++ and power system simulation.
+\emph{IEEE Transactions on Power Systems}, New York, v.~11, n.~1, p. 206--215,
+  February 1996.}
+
+\bibitem{Livros}
+\abntrefinfo{Stroustrup}{STROUSTRUP}{1997}
+{STROUSTRUP, B. \emph{The C++ Programming Language}. 3. ed. Reading: Addison
+  Wesley, 1997.}
+
+\bibitem{CapituloLivro}
+\abntrefinfo{Ham}{HAM}{1997}
+{HAM, A.~W. Histologia.
+In:  \underline{\ \ \ \ \ \ \ \ }. 7. ed. Rio de Janeiro: Guanabara, 1997. cap.
+  : Microscopia e Biologia de Células, p. 2--20.}
+
+\bibitem{ArtigoAnais}
+\abntrefinfo{Gurtin}{GURTIN}{1987}
+{GURTIN, M.~E. On the nonlinear theory of elasticity. In:  \emph{International
+  Symposium on Continuum Mechanics and Partial Differential Equations}. Rio de
+  Janeiro: [s.n.], 1987. p. 237--253.}
+
+\bibitem{Manual}
+\abntrefinfo{The Math Works}{THE MATH WORKS}{2001}
+{THE MATH WORKS. \emph{Getting Started with {MATLAB}}.
+Massachussets, 2001.}
+
+\bibitem{RelatorioTecnico}
+\abntrefinfo{Bolzan e Giraffa}{BOLZAN; GIRAFFA}{2002}
+{BOLZAN, W.; GIRAFFA, L. M.~M. \emph{Estudo comparativo sobre Sistemas Tutores
+  Inteligentes Multiagentes Web}.
+Porto Alegre, RS, Julho 2002.}
+
+\bibitem{Tese}
+\abntrefinfo{Oliveira}{OLIVEIRA}{1994}
+{OLIVEIRA, F.~M. de.
+\emph{Critérios de equilibração para Sistemas Tutores Inteligentes}.
+Tese (Tese de Doutorado) --- Universidade Federal do Rio Grande do Sul, Porto
+  Alegre, RS, Janeiro 1994.}
+
+\bibitem{DissertacaoMonografia}
+\abntrefinfo{Canedo}{CANEDO}{2002}
+{CANEDO, E.~D.
+\emph{Estudo e Experimentação de uma Linguagem de Modelagem de Sistemas Baseada
+  em Redes de Petri e Orientação a Objetos}.
+Dissertação (Dissertação de Mestrado) --- {COPIN} -- Universidade Federal de
+  Campina Grande, Campina Grande - PB, Agosto 2002.}
+
+\bibitem{Miscelania}
+\abntrefinfo{Bovet}{BOVET}{2005}
+{BOVET, J. \emph{{V}isual {A}utomata {S}imulator}. 2005.
+Consultado na INTERNET: http://www.cs.usfca.edu/~jbovet/vas.html, 2005.}
+
+\bibitem{NaoPublicado}
+\abntrefinfo{Sampaio}{SAMPAIO}{2001}
+{SAMPAIO, T. de M. Um sistema multi-agente para busca semântica na internet.
+  Artigo apresentado na disciplina DAS-6607 - Professor Ricardo Rabelo.
+  Setembro 2001.}
+
+\end{thebibliography}
